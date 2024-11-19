@@ -1,0 +1,83 @@
+[
+    {
+      "flightName": "Air India Express",
+      "flightId": "AI101",
+      "origin": "Delhi",
+      "destination": "Mumbai",
+      "departureTime": "2024-11-20T10:30:00",
+      "arrivalTime": "2024-11-20T12:30:00",
+      "basePrice": 5000,
+      "totalSeats": 150
+    },
+    {
+      "flightName": "IndiGo",
+      "flightId": "6E202",
+      "origin": "Bangalore",
+      "destination": "Hyderabad",
+      "departureTime": "2024-11-21T07:15:00",
+      "arrivalTime": "2024-11-21T08:45:00",
+      "basePrice": 3500,
+      "totalSeats": 180
+    },
+    {
+      "flightName": "SpiceJet",
+      "flightId": "SG303",
+      "origin": "Kolkata",
+      "destination": "Chennai",
+      "departureTime": "2024-11-22T14:00:00",
+      "arrivalTime": "2024-11-22T15:50:00",
+      "basePrice": 4000,
+      "totalSeats": 160
+    },
+    {
+      "flightName": "GoAir",
+      "flightId": "G8114",
+      "origin": "Mumbai",
+      "destination": "Delhi",
+      "departureTime": "2024-11-23T09:00:00",
+      "arrivalTime": "2024-11-23T11:00:00",
+      "basePrice": 5500,
+      "totalSeats": 140
+    },
+    {
+      "flightName": "Vistara",
+      "flightId": "UK101",
+      "origin": "Delhi",
+      "destination": "Bangalore",
+      "departureTime": "2024-11-24T18:30:00",
+      "arrivalTime": "2024-11-24T20:30:00",
+      "basePrice": 7000,
+      "totalSeats": 170
+    },
+    {
+      "flightName": "Air India",
+      "flightId": "AI505",
+      "origin": "Mumbai",
+      "destination": "Kolkata",
+      "departureTime": "2024-11-25T13:00:00",
+      "arrivalTime": "2024-11-25T15:30:00",
+      "basePrice": 6000,
+      "totalSeats": 200
+    },
+    {
+      "flightName": "AirAsia India",
+      "flightId": "I5241",
+      "origin": "Hyderabad",
+      "destination": "Chennai",
+      "departureTime": "2024-11-26T06:00:00",
+      "arrivalTime": "2024-11-26T07:30:00",
+      "basePrice": 3200,
+      "totalSeats": 150
+    },
+    {
+      "flightName": "IndiGo",
+      "flightId": "6E181",
+      "origin": "Chennai",
+      "destination": "Mumbai",
+      "departureTime": "2024-11-27T16:00:00",
+      "arrivalTime": "2024-11-27T18:00:00",
+      "basePrice": 4700,
+      "totalSeats": 180
+    }
+  ]
+  
